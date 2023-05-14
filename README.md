@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LEE HANSEO
-- 👀 I’m interested in Data Analyist / Data Science
+- 👀 I’m interested in Data Analyist
 - 🌱 My current achievements : https://github.com/hslee0824/CurrentWorks
 - 📫 How to reach me: https://www.linkedin.com/in/hanseolee/
 
